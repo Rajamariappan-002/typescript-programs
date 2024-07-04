@@ -1,0 +1,22 @@
+mkdir my-typescript-project
+cd my-typescript-project
+
+
+npm init -y
+
+
+npm install typescript --save-dev
+
+
+npx tsc --init
+
+
+npm install --save-dev @types/node
+
+
+FOR COMPILATION:
+npx tsc
+
+
+FOR RUNNING THE JAVASCRIPT CODE:
+node index.js
